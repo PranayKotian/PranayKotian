@@ -1,7 +1,7 @@
 ### Hi! I'm Pranay. 👋
 - 😄 Pronouns: he/him
 - 🛠️ Software Engineer
-- 🌱 I’m currently learning responsive web design @freeCodeCamp.org
+- 🌱 I’m currently learning responsive web design @freeCodeCamp
 
 ### Skills
 #### Programming Languages
