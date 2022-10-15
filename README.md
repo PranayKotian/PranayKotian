@@ -1,7 +1,7 @@
 ### Hi! I'm Pranay. 👋
 - 😄 Pronouns: he/him
 - 🛠️ Software Engineer
-- 🌱 I’m currently completing Harvard's CS50AI course
+- 🌱 I’m currently grinding out LeetCode
 
 ### Skills
 #### Programming Languages
