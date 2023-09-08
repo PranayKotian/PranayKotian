@@ -1,5 +1,4 @@
 ### Hi! I'm Pranay. 👋
-- 😄 Pronouns: he/him
 - 🛠️ Software Engineer
 - 🌱 I’m currently grinding out LeetCode
 
