@@ -1,6 +1,6 @@
 ### Hi! I'm Pranay. 👋
 - 🛠️ Software Engineer
-- 🌱 I’m currently completing CS50 AI
+- 🌱 I’m currently grinding LeetCode 💀
 
 ### Skills
 #### Programming Languages
