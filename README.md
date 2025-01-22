@@ -1,6 +1,6 @@
 ### Hi! I'm Pranay. 👋
 - 🛠️ Software Engineer
-- 🌱 I’m currently grinding LeetCode 💀
+- 🌱 I’m currently exploring Vancouver
 
 ### Skills
 #### Programming Languages
